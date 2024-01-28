@@ -2,6 +2,7 @@
 
 using LeetCode_Library.Easy._1114PrintInOrder;
 using LeetCode_Library.Easy._724FindPivotindex;
+using LeetCode_Library.Easy._728SelfDivingNumber;
 
 Console.WriteLine("Program Start!");
 
@@ -40,6 +41,31 @@ Console.WriteLine("Program Start!");
 // Console.WriteLine(solution.PivotIndexSolution3(testCase5));
 // Console.WriteLine(solution.PivotIndexSolution3(testCase6));
 // Console.WriteLine(solution.PivotIndexSolution3(testCase7));
+
+#endregion
+
+#region 728 Self Dividing Number
+
+// var solution = new Solution728();
+//
+// var testCase1 = solution.SelfDividingNumbers(1, 22);
+// var testCase2 = solution.SelfDividingNumbers(47, 85);
+// var testCase3 = solution.SelfDividingNumbers(3, 4);
+// var testCase4 = solution.SelfDividingNumbers(0, 1);
+// var testCase5 = solution.SelfDividingNumbers(1, 100000);
+// var testCase6 = solution.SelfDividingNumbers(999, 1990);
+// var testCase7 = solution.SelfDividingNumbers(470, 850);
+// var testCase8 = solution.SelfDividingNumbers(4700, 8050);
+//
+// Console.WriteLine(String.Join(";", testCase1));
+// Console.WriteLine(String.Join(";", testCase2));
+// Console.WriteLine(String.Join(";", testCase3));
+// Console.WriteLine(String.Join(";", testCase4));
+// Console.WriteLine(String.Join(";", testCase5));
+// Console.WriteLine(String.Join(";", testCase6));
+// Console.WriteLine(String.Join(";", testCase7));
+// Console.WriteLine(String.Join(";", testCase8));
+
 
 #endregion
 
