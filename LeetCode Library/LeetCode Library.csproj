@@ -8,4 +8,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Easy\728SelfDivingnumber\" />
+      <Folder Include="Hard\" />
+      <Folder Include="Medium\" />
+    </ItemGroup>
+
 </Project>
